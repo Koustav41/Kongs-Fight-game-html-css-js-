@@ -22,7 +22,7 @@ const settings = {
 
 const blastHoleRadius = 18;
 
-// The main canvas element and its drawing context
+
 const canvas = document.getElementById("game");
 canvas.width = window.innerWidth * window.devicePixelRatio;
 canvas.height = window.innerHeight * window.devicePixelRatio;
